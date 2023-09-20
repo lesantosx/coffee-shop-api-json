@@ -48,7 +48,10 @@
       "description": "Brewed coffee served over ice with sugar and milk.",
       "price": 6.00,
       "image": "/images/coffee/coffee-2.png"
-    },
+    }    
+  ],
+  "ice":
+  [
     {
       "id": 7,
       "name": "Ice Latte",
